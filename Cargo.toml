@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-virtual-desktop"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS virtual-desktop component - desktop"
+
+[lib]
+name = "virtual_desktop"
+path = "src/lib.rs"
