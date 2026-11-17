@@ -3,7 +3,7 @@ name = "SigmaOS-virtual-desktop"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "virtual-desktop component"
+description = "virtual desktop"
 upstream = []
 
 [contract]
